@@ -1,6 +1,11 @@
 Arch Linux
 GitHub all releases Stars Release GitHub Release Date  
 
+
+
+
+
+
 What is Arch.sh
 An open source project to make your Arch Required things faster after installing Arch linux.
 
