@@ -78,3 +78,5 @@ sudo pacman -S gnome-tweaks
 sudo pacman -S numix-themes 
 sudo yay  arc-icon-theme-git 
 sudo yay  -S arc-gtk-theme flatplat-theme-git vertex-themes
+exit 0
+
